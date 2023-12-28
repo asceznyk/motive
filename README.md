@@ -2,12 +2,12 @@
 
 Essentially we want to solve long-term and short-term problems and have a lot of fun!
 
-Short-term:
+### Short-term:
 1. CTFs - picoCTF, HackTheBox, etc.
 2. Competitive Progamming - codeforces, leetcode, etc.
 3. Small Projects - 2D games, text editors, compilers, toy projects
 
-Long-term (choose one):
+### Long-term (choose one):
 1. ML Library
 2. OS from scratch
 3. 3D Game - FPS or something like that
