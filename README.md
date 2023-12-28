@@ -3,7 +3,7 @@
 Essentially we want to solve long-term and short-term problems and have a lot of fun!
 
 ### Short-term:
-1. CTFs - [picoCTF](https://play.picoctf.org/practice), [HackTheBox](https://hackthebox.com/), etc.
+1. CTFs - [picoCTF](https://play.picoctf.org/practice){:target="\_blank"}, [HackTheBox](https://hackthebox.com/), etc.
 2. Competitive Progamming - [codeforces](https://codeforces.com), [leetcode](https://leetcode.com), etc.
 3. Small Projects - 2D games, text editors, compilers, toy projects
 
