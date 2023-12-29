@@ -23,6 +23,6 @@ We want to solve hard problems - take it like a challenge.
 
 ### What our day should look like:
 ```
-start --> short-term --> job --> long-term --> end
+start -> job -> short-term -> long-term -> end
 ```
 
