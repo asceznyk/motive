@@ -1,6 +1,9 @@
 ## What do we want? - Philosophically
+Essentially we want to solve long-term and short-term problems and have fun.
 
-Essentially we want to solve long-term and short-term problems and have a lot of fun!
+
+## The mindset
+We want to be able to solve hard problems - like a challenge.
 
 
 ### Short-term:
