@@ -2,7 +2,7 @@
 Essentially we want to solve long-term and short-term problems and have fun.
 
 
-## The mindset
+### The mindset
 We want to be able to solve hard problems - like a challenge.
 
 
