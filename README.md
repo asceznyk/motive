@@ -17,7 +17,8 @@ Essentially we want to solve long-term and short-term problems and have a lot of
 5. Linux shell - alternate to [nu](https://github.com/nushell/nushell) or [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
 6. Self-driving system - like [comma.ai](https://comma.ai)
 
-What our day should look like:
+
+### What our day should look like:
 ```
 start --> short-term --> job --> long-term --> end
 ```
