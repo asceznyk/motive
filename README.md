@@ -14,11 +14,12 @@ We want to solve hard problems - take it like a challenge.
 
 ### Long-term (choose one):
 1. ML Library - like [this one](https://github.com/geohot/tinygrad)
-2. Something like [qira](https://qira.me)
-3. OS from scratch
-4. 3D Game - FPS or something like that
-5. Linux shell - alternate to [nu](https://github.com/nushell/nushell) or [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
-6. Self-driving system - like [comma.ai](https://comma.ai)
+2. AGI like ChatGPT 
+3. Something like [qira](https://qira.me)
+4. OS from scratch
+5. 3D Game - FPS or something like that
+6. Linux shell - alternate to [nu](https://github.com/nushell/nushell) or [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) 
+7. Self-driving system - like [comma.ai](https://comma.ai)
 
 
 ### What our day should look like:
